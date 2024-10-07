@@ -56,17 +56,6 @@
   </tr>
 </table>
 
-### 담당 기능
-
-1. 주문/결제 - <a href="https://github.com/ryuneng/roommake/blob/portfolio/src/main/java/com/roommake/order/service/OrderService.java">주요 소스 보기</a> `(카카오페이 Open API 사용)`
-2. 장바구니 - <a href="https://github.com/ryuneng/roommake/blob/portfolio/src/main/java/com/roommake/cart/controller/CartController.java">주요 소스 보기</a>
-3. 주문취소/반품/교환 신청 - <a href="https://github.com/ryuneng/roommake/blob/portfolio/src/main/java/com/roommake/order/controller/OrderClaimController.java">주요 소스 보기</a>
-4. 배송지 관리 - <a href="https://github.com/ryuneng/roommake/blob/portfolio/src/main/java/com/roommake/order/controller/DeliveryController.java">주요 소스 보기</a>
-5. 주문내역 및 주문상세 - <a href="https://github.com/ryuneng/roommake/blob/portfolio/src/main/java/com/roommake/order/service/MyOrderService.java">주요 소스 보기</a>
-6. 메인화면 - <a href="https://github.com/ryuneng/roommake/blob/portfolio/src/main/java/com/roommake/home/service/HomeService.java">주요 소스 보기</a>
-
-<br>
-
 ## 🛠️ 프로젝트 환경
 
 ### Front
