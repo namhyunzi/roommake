@@ -1,17 +1,5 @@
 # <img width="110px" src="https://github.com/ryuneng/roommake/assets/137076160/11c55ca0-27ef-4b7e-8fd6-c0626dc81d49"> &nbsp;ROOMMAKE
 
-## 🔍 목차
-
-1. [서비스 소개](#-서비스-소개)
-2. [R&R 및 담당 기능](#-rr)
-3. [프로젝트 환경](#%EF%B8%8F-프로젝트-환경)
-4. [ERD](#%EF%B8%8F-erd)
-5. [컨벤션 전략](#-컨벤션-전략)
-6. [Commit과 PR 관리](#-commit과-pr-관리)
-7. [고민한 흔적](#-고민한-흔적)
-
-<br>
-
 ## 📋 서비스 소개
 
 > 라이프스타일 트렌드가 변화함에 따라 개인마다의 공간에 대한 관심이 높아지고 있습니다. <br>
@@ -39,33 +27,22 @@
     <td>커뮤니티 집들이 및 노하우, 채널, 이벤트</td>
   </tr>
   <tr>
-    <td>남현지</td>
-    <td>로그인, 회원가입, 마이페이지 프로필 및 설정</td>
+    <td><b>남현지</b></td>
+    <td><b>로그인, 회원가입, 마이페이지 프로필 및 설정</b></td>
   </tr>
   <tr>
     <td>송종석</td>
     <td>관리자 상품, 판매자 주문 및 반품/교환, 배송관리</td>
   </tr>
   <tr>
-    <td><b>유리빛나</b></td>
-    <td><b>주문결제, 장바구니, 주문취소, 반품교환, 주문내역, 메인 홈</b></td>
+    <td>유리빛나</td>
+    <td>주문결제, 장바구니, 주문취소, 반품교환, 주문내역, 메인 홈</td>
   </tr>
   <tr>
     <td>홍원표</td>
     <td>상품 리스트, 상품 상세, 상품 리뷰 및 문의</td>
   </tr>
 </table>
-
-### 담당 기능
-
-1. 주문/결제 - <a href="https://github.com/ryuneng/roommake/blob/portfolio/src/main/java/com/roommake/order/service/OrderService.java">주요 소스 보기</a> `(카카오페이 Open API 사용)`
-2. 장바구니 - <a href="https://github.com/ryuneng/roommake/blob/portfolio/src/main/java/com/roommake/cart/controller/CartController.java">주요 소스 보기</a>
-3. 주문취소/반품/교환 신청 - <a href="https://github.com/ryuneng/roommake/blob/portfolio/src/main/java/com/roommake/order/controller/OrderClaimController.java">주요 소스 보기</a>
-4. 배송지 관리 - <a href="https://github.com/ryuneng/roommake/blob/portfolio/src/main/java/com/roommake/order/controller/DeliveryController.java">주요 소스 보기</a>
-5. 주문내역 및 주문상세 - <a href="https://github.com/ryuneng/roommake/blob/portfolio/src/main/java/com/roommake/order/service/MyOrderService.java">주요 소스 보기</a>
-6. 메인화면 - <a href="https://github.com/ryuneng/roommake/blob/portfolio/src/main/java/com/roommake/home/service/HomeService.java">주요 소스 보기</a>
-
-<br>
 
 ## 🛠️ 프로젝트 환경
 
@@ -105,12 +82,7 @@
 ## ⛓️ ERD
 
 <details>
-  <summary><b>주문 관련 ERD (21개 엔티티)</b></summary>
-  <a href="https://www.erdcloud.com/d/RfPs7YXxK9vAcdAzT">🔗 ERD CLOUD 이동</a><br>
-  <img src="https://github.com/user-attachments/assets/38c54d4a-ca85-45a3-ab64-7162dcfcd430">
-</details>
-<details>
-  <summary><b>전체 ERD (63개 엔티티)</b></summary><br>
+  <summary><b> ERD (63개 엔티티)</b></summary><br>
   <img src="https://github.com/user-attachments/assets/64480063-2468-429c-b012-77a94a246baf">
 </details>
 
