@@ -1,17 +1,5 @@
 # <img width="110px" src="https://github.com/ryuneng/roommake/assets/137076160/11c55ca0-27ef-4b7e-8fd6-c0626dc81d49"> &nbsp;ROOMMAKE
 
-## 🔍 목차
-
-1. [서비스 소개](#-서비스-소개)
-2. [R&R 및 담당 기능](#-rr)
-3. [프로젝트 환경](#%EF%B8%8F-프로젝트-환경)
-4. [ERD](#%EF%B8%8F-erd)
-5. [컨벤션 전략](#-컨벤션-전략)
-6. [Commit과 PR 관리](#-commit과-pr-관리)
-7. [고민한 흔적](#-고민한-흔적)
-
-<br>
-
 ## 📋 서비스 소개
 
 > 라이프스타일 트렌드가 변화함에 따라 개인마다의 공간에 대한 관심이 높아지고 있습니다. <br>
@@ -94,12 +82,7 @@
 ## ⛓️ ERD
 
 <details>
-  <summary><b>주문 관련 ERD (21개 엔티티)</b></summary>
-  <a href="https://www.erdcloud.com/d/RfPs7YXxK9vAcdAzT">🔗 ERD CLOUD 이동</a><br>
-  <img src="https://github.com/user-attachments/assets/38c54d4a-ca85-45a3-ab64-7162dcfcd430">
-</details>
-<details>
-  <summary><b>전체 ERD (63개 엔티티)</b></summary><br>
+  <summary><b> ERD (63개 엔티티)</b></summary><br>
   <img src="https://github.com/user-attachments/assets/64480063-2468-429c-b012-77a94a246baf">
 </details>
 
