@@ -12,9 +12,13 @@
 <br>
 <br>
 
-## 🧑🏻‍💻 R&R
+## 🧑🏻‍💻 담당 역할
 
 <table>
+  <tr>
+    <td><b>남현지</b></td>
+    <td><b>로그인, 회원가입, 마이페이지 프로필 및 설정</b></td>
+  </tr>
   <tr>
     <td>곽유진</td>
     <td>관리자센터, 대시보드, 고객센터, 유저 문의 및 포인트내역</td>
@@ -22,10 +26,6 @@
   <tr>
     <td>김다영</td>
     <td>커뮤니티 집들이 및 노하우, 채널, 이벤트</td>
-  </tr>
-  <tr>
-    <td><b>남현지</b></td>
-    <td><b>로그인, 회원가입, 마이페이지 프로필 및 설정</b></td>
   </tr>
   <tr>
     <td>송종석</td>
@@ -57,6 +57,7 @@
 <div>
   <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
 </div>
 
 ### DataBase
