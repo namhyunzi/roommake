@@ -57,7 +57,7 @@
 <div>
   <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white">
 </div>
 
 ### DataBase
